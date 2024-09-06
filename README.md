@@ -1,4 +1,4 @@
-# Tarefa konecty-jobs  
+# Lista de produtos 
 
 Aplicação web que exibe uma lista de produtos em uma única página. É possível filtrar:  
 
