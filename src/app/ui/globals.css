@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-body: #F4F4F4;
+  --primary-color: #000000;
+  ---background-cards: #FFFFFF:  
+}
+
+body {
+  color: var(--primary-color);
+  background: var(--background-body);
+}
+
+.line-clamp-2 {  
+  display: -webkit-box;  
+  -webkit-box-orient: vertical;  
+  -webkit-line-clamp: 2; 
+  overflow: hidden;  
+}  
